@@ -1,3 +1,3 @@
-# SIRPI - EXERCISES:
-    - it contains all the exercise that are assigned 	
-:sunglasses:
+# SIRPI - EXERCISES: :sunglasses:
+    - it contains all the exercise that are assigned
+
